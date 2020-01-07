@@ -1,2 +1,1 @@
-# kibana
-Kibana preconfigured for Boodskap IoT Platform
+# Kibana preconfigured for Boodskap IoT Platform
